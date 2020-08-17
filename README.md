@@ -1,5 +1,5 @@
 The Odin Project WebDev101 Project: html/css
-Goal: Create a webpage on github.com
+Goal: Create a webpage looking like Google on github.com
 
 Skills:
 -git
